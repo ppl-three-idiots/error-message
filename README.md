@@ -36,6 +36,5 @@
 
 - 언어/프레임워크 별로 directory 나누기
 - 해당 디렉토리에서 README 작성
-- keyword로 title(toggle) 작성하고, 간단한 에러 설명 및 해결 방법 제시
-  - <details> <summary>토글토글</summary> <div markdown="1"> 토글 안에 내용</div></details>
-- 해당 에러 해결법이 version이 바뀌거나 다른 해결법이 있는 경우 [issue](https://github.com/m1nnh/error-message)에 적어주세요.
+- keyword로 title(h3 태그) 작성하고, 간단한 에러 설명 및 해결 방법 제시
+- 해당 에러 해결법이 version이 바뀌거나 다른 해결법이 있는 경우 [issue](https://github.com/ppl-three-idiots/error-message/issues)에 적어주세요.
